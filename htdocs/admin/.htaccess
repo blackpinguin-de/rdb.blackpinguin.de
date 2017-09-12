@@ -1,0 +1,8 @@
+<RequireAny>
+  Require ip 192.168.4.0/28
+  Require ip 192.168.4.16/28
+  Require ip 127.0.0.1
+  Require host blackpinguin.de
+</RequireAny>
+
+Options +Indexes
