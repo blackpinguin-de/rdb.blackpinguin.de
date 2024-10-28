@@ -1,0 +1,26 @@
+/* ::::: https://rdb.blackpinguin.de/shop.css ::::: */
+
+body { font-family: Helvetica,Arial Unicode MS,Arial; background-color: grey; }
+div, span, a, img { border-radius: 10px; }
+.right { float: right; display: block; }
+.clear { clear: both; }
+.error, .warn, .info { text-align: center; font-weight: bold; margin-bottom: 5px; }
+.info { background-color: aqua; color: black; }
+#login, #profile, #register { float: right; }
+.parentCategory, .subCategory, #selectedCategory { padding-left: 10px; }
+.subCategory > a, .parentCategory > a { text-decoration: none; color: blue; }
+#content { width: 100%; }
+#basketNavi, #categoryNavi, #orderNavi { width: calc(20% - 15px); margin-right: 5px; background-color: yellow; padding: 5px; float: left; }
+#categoryNavi > form > input[type="text"] { width: calc(100% - 5px); float: left; }
+#categoryNavi > form > input[type="submit"] { float: right; }
+#mainContent { width: calc(80% - 10px); padding: 5px; background-color: lightgrey; }
+#navigation { display: block; width: 100%; background-color: lime; text-align: center; margin-bottom: 5px; height: 40px; }
+#navigation > span, #login, #profile, #register, #title { padding: 5px; }
+#navigation > span, #navigation > div > span, #navigation > div > div { height: 30px; display: inline-block; float: left; }
+#navigation > span > *, #navigation > div > span > *, #navigation > div > div > * { text-decoration: none; color: black; height: 30px; display: table-cell; vertical-align: middle; }
+#title { font-weight: bold; display: inline-block; }
+div.category { padding-left: 5px; }
+.article { margin: 5px; padding: 5px; background-color: orange; }
+.article > .imgHolder > img { max-width: 200px; max-height: 200px; }
+.article > .imgHolder { display: block; margin-right: 5px; float: left; }
+.article > a, .article > form { float: right; }

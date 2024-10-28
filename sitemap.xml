@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Minimalistic Shop" title="Minimalistic Shop">
+<page file="warenkorb.html" text="Warenkorb" title="Minimalistic Shop"/>
+<page file="register.html" text="Registrieren" title="Minimalistic Shop"/>
+<page file="kategorie.html" text="Sonstiges" title="Minimalistic Shop">
+<page file="kategorie_004.html" text="Alle Kategorien" title="Minimalistic Shop"/>
+<page file="article_016.html" text="2.00 €Windeln" title="Minimalistic Shop"/>
+</page>
+<page file="kategorie_001.html" text="Lebensmittel" title="Minimalistic Shop">
+<page file="kategorie_005.html" text="Getränke" title="Minimalistic Shop">
+<page file="article_032.html" text="0.49 €Wasser" title="Minimalistic Shop"/>
+<page file="article_033.html" text="0.89 €Coca Cola" title="Minimalistic Shop"/>
+</page>
+<page file="kategorie_006.html" text="Fleisch" title="Minimalistic Shop">
+<page file="article_034.html" text="1.49 €Putenschnitzel" title="Minimalistic Shop"/>
+<page file="article_035.html" text="4.99 €Steak" title="Minimalistic Shop"/>
+</page>
+<page file="article_017.html" text="1.49 €Putenschnitzel" title="Minimalistic Shop"/>
+<page file="article_018.html" text="4.99 €Steak" title="Minimalistic Shop"/>
+<page file="article_019.html" text="0.49 €Wasser" title="Minimalistic Shop"/>
+<page file="article_020.html" text="0.67 €Waffeln" title="Minimalistic Shop"/>
+<page file="article_021.html" text="0.89 €Coca Cola" title="Minimalistic Shop"/>
+</page>
+<page file="kategorie_002.html" text="Bücher" title="Minimalistic Shop">
+<page file="kategorie_007.html" text="Bestseller" title="Minimalistic Shop">
+<page file="article_036.html" text="59.99 €Design Patterns" title="Minimalistic Shop"/>
+<page file="article_037.html" text="10.00 €Harry Potter und der Stein der Weisen" title="Minimalistic Shop"/>
+</page>
+<page file="kategorie_008.html" text="Fachbücher" title="Minimalistic Shop">
+<page file="article_038.html" text="59.99 €Design Patterns" title="Minimalistic Shop"/>
+<page file="article_039.html" text="37.40 €Understanding Cryptography" title="Minimalistic Shop"/>
+</page>
+<page file="kategorie_009.html" text="Fantasy" title="Minimalistic Shop">
+<page file="article_040.html" text="10.00 €Harry Potter und der Stein der Weisen" title="Minimalistic Shop"/>
+<page file="article_041.html" text="9.99 €Die Zwerge" title="Minimalistic Shop"/>
+</page>
+<page file="article_022.html" text="59.99 €Design Patterns" title="Minimalistic Shop"/>
+<page file="article_023.html" text="10.00 €Harry Potter und der Stein der Weisen" title="Minimalistic Shop"/>
+<page file="article_024.html" text="37.40 €Understanding Cryptography" title="Minimalistic Shop"/>
+<page file="article_025.html" text="9.99 €Die Zwerge" title="Minimalistic Shop"/>
+</page>
+<page file="kategorie_003.html" text="Elektronik" title="Minimalistic Shop">
+<page file="kategorie_010.html" text="Videospiele" title="Minimalistic Shop">
+<page file="article_042.html" text="20.00 €Portal 2" title="Minimalistic Shop"/>
+<page file="article_043.html" text="35.48 €Skyrim" title="Minimalistic Shop"/>
+<page file="article_044.html" text="4.99 €Gothic" title="Minimalistic Shop"/>
+<page file="article_045.html" text="64.99 €God of War 3" title="Minimalistic Shop"/>
+</page>
+<page file="article_026.html" text="9.99 €NIC" title="Minimalistic Shop"/>
+<page file="article_027.html" text="64.99 €God of War 3" title="Minimalistic Shop"/>
+<page file="article_028.html" text="20.00 €Portal 2" title="Minimalistic Shop"/>
+<page file="article_029.html" text="4.99 €Gothic" title="Minimalistic Shop"/>
+<page file="article_030.html" text="35.48 €Skyrim" title="Minimalistic Shop"/>
+<page file="article_031.html" text="29.99 €MP3-Player" title="Minimalistic Shop"/>
+</page>
+<page file="article.html" text="9.99 €NIC" title="Minimalistic Shop"/>
+<page file="article_001.html" text="37.40 €Understanding Cryptography" title="Minimalistic Shop"/>
+<page file="article_002.html" text="10.00 €Harry Potter und der Stein der Weisen" title="Minimalistic Shop"/>
+<page file="article_003.html" text="64.99 €God of War 3" title="Minimalistic Shop">
+<page file="kategorie_011.html" text="PS3-Spiele" title="Minimalistic Shop">
+<page file="article_046.html" text="20.00 €Portal 2" title="Minimalistic Shop"/>
+<page file="article_047.html" text="35.48 €Skyrim" title="Minimalistic Shop"/>
+<page file="article_048.html" text="64.99 €God of War 3" title="Minimalistic Shop"/>
+</page>
+</page>
+<page file="article_004.html" text="1.49 €Putenschnitzel" title="Minimalistic Shop"/>
+<page file="article_005.html" text="20.00 €Portal 2" title="Minimalistic Shop">
+<page file="kategorie_012.html" text="PC-Spiele" title="Minimalistic Shop">
+<page file="article_049.html" text="20.00 €Portal 2" title="Minimalistic Shop"/>
+<page file="article_050.html" text="35.48 €Skyrim" title="Minimalistic Shop"/>
+<page file="article_051.html" text="4.99 €Gothic" title="Minimalistic Shop"/>
+</page>
+</page>
+<page file="article_006.html" text="4.99 €Gothic" title="Minimalistic Shop"/>
+<page file="article_007.html" text="9.99 €Die Zwerge" title="Minimalistic Shop"/>
+<page file="article_008.html" text="4.99 €Steak" title="Minimalistic Shop"/>
+<page file="article_009.html" text="59.99 €Design Patterns" title="Minimalistic Shop"/>
+<page file="article_010.html" text="2.00 €Windeln" title="Minimalistic Shop"/>
+<page file="article_011.html" text="35.48 €Skyrim" title="Minimalistic Shop"/>
+<page file="article_012.html" text="0.49 €Wasser" title="Minimalistic Shop"/>
+<page file="article_013.html" text="29.99 €MP3-Player" title="Minimalistic Shop"/>
+<page file="article_014.html" text="0.67 €Waffeln" title="Minimalistic Shop"/>
+<page file="article_015.html" text="0.89 €Coca Cola" title="Minimalistic Shop"/>
+</page>
+</site>

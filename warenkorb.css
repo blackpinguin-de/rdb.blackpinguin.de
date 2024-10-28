@@ -1,0 +1,17 @@
+/* ::::: https://rdb.blackpinguin.de/shop.css ::::: */
+
+body { font-family: Helvetica,Arial Unicode MS,Arial; background-color: grey; }
+div, span, a, img { border-radius: 10px; }
+.right { float: right; display: block; }
+.clear { clear: both; }
+.error, .warn, .info { text-align: center; font-weight: bold; margin-bottom: 5px; }
+.warn { background-color: yellow; color: black; }
+.info { background-color: aqua; color: black; }
+#login, #profile, #register { float: right; }
+#content { width: 100%; }
+#mainContent { width: calc(80% - 10px); padding: 5px; background-color: lightgrey; }
+#navigation { display: block; width: 100%; background-color: lime; text-align: center; margin-bottom: 5px; height: 40px; }
+#navigation > span, #login, #profile, #register, #title { padding: 5px; }
+#navigation > span, #navigation > div > span, #navigation > div > div { height: 30px; display: inline-block; float: left; }
+#navigation > span > *, #navigation > div > span > *, #navigation > div > div > * { text-decoration: none; color: black; height: 30px; display: table-cell; vertical-align: middle; }
+#title { font-weight: bold; display: inline-block; }
